@@ -1,3 +1,5 @@
+#Verificador de múltiplos de 3, de 1 a 500
+
 soma = 0
 contador = 0
 for c in range (1,501,2):

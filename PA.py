@@ -1,3 +1,5 @@
+#Progressão Aritimética 
+
 print ('='*30)
 print ('OS 10 TERMOS DE UMA PA')
 print ('='*30)

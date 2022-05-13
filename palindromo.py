@@ -1,3 +1,4 @@
+#Verificador de palíndromos
 from ntpath import join
 
 frase = str(input('Digite uma frase ')).strip().upper()
