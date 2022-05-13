@@ -1,4 +1,5 @@
-#Verificador de pesos
+#Verificador de pesos.
+
 maior= 0
 menor= 0
 

@@ -1,4 +1,4 @@
-#Soma de números pares
+#Soma de números pares.
 contador = 0
 soma = 0
 

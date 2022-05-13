@@ -1,4 +1,4 @@
-#Contador de maioridades e menoridades
+#Contador de maioridades e menoridades.
 
 from datetime import date
 

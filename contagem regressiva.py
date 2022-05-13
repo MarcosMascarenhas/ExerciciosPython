@@ -1,4 +1,4 @@
-#Contagem regressiva Ano novo
+#Contagem regressiva Ano novo.
 
 from datetime import time
 from time import sleep

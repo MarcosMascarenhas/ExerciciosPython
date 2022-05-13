@@ -1,4 +1,4 @@
-#Verificador de múltiplos de 3, de 1 a 500
+#Verificador de múltiplos de 3, de 1 a 500.
 
 soma = 0
 contador = 0

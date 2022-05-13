@@ -1,4 +1,4 @@
-#Verificador de números primos
+#Verificador de números primos.
 from time import sleep
 n = int (input('Digite um numero '))
 divs = 0
